@@ -3,3 +3,4 @@
 -Learn Git branches
 - [D[D[D[C[C[D[CPractice Pull Reqests[D[D[D[Duests
 - Master conflict resolution
+- Review code daily
